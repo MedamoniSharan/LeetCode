@@ -130,6 +130,8 @@ class Solution {
     void mirror(Node node) {
         // just swap the left and right node;
         
+        // for every node be have to swap
+        
         if(node == null){
             return;
         }
